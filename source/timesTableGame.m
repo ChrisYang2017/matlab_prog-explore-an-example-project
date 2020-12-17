@@ -2,7 +2,7 @@ classdef timesTableGame < handle
     %TIMESTABLEGAME A simple educational app that asks times tables. 
     
     % Copyright 2018-2019 The MathWorks, Inc.
-    
+    %     test Sample Comment by Yuzhu Yang
     properties
         CurrentTimesTable = 3;
         CurrentQuestion;
